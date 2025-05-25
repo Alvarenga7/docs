@@ -4,8 +4,8 @@
   "name": "First Solution",
   "colors": {
     "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#A6A5FF",
+    "dark": "#2D2B99"
   },
   "favicon": "/favicon.svg",
   "navigation": {
